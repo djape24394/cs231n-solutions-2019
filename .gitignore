@@ -1,2 +1,6 @@
 .vscode/
 .idea/
+spring1819_assignment3/assignment3/cs231n/datasets/coco_captioning/val2014_vgg16_fc7_pca.h5
+spring1819_assignment3/assignment3/cs231n/datasets/coco_captioning/train2014_vgg16_fc7_pca.h5
+spring1819_assignment3/assignment3/cs231n/datasets/coco_captioning/train2014_vgg16_fc7.h5
+spring1819_assignment3/assignment3/cs231n/datasets/coco_captioning/val2014_vgg16_fc7.h5
